@@ -74,19 +74,6 @@ p {
     top: 50px;
 }
 
-.bottom-cloud {
-    position: absolute;
-    left: 300px;
-    bottom: 300px;
-}
-
-.brackets-img {
-    position: absolute;
-    left: 300px;
-    bottom: 300px;
-    width: 20%;
-}
-
 .brackets2-img {
     position: absolute;
     right: 100px;
@@ -110,6 +97,13 @@ p {
     margin-left: 100px;
 }
 
+.picture2 {
+    width: 300px;
+    float: right;
+    margin-left: 100px;
+
+}
+
 
 .skill-row {
     width: 50%;
@@ -128,6 +122,13 @@ p {
     width: 33%;
     float: right;
     margin-right: 80px;
+}
+
+.java-img {
+    width: 22%;
+    float: left;
+    margin-right: 80px;
+    margin-bottom: 50px;
 }
 
 .contact-message {
