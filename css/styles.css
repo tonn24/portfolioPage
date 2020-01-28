@@ -58,7 +58,7 @@ p {
 .top-container {
     background-color: #636B46;
     position: relative;
-    padding-top: 100px;
+    padding-top: 10px;
 }
 
 .middle-container {
@@ -110,10 +110,19 @@ p {
 
 
 .skill-row {
-    width: 50%;
+    width: 60%;
     Margin: 100px auto 100px auto;
     text-align: left; 
     line-height: 2rem;
+}
+
+
+.projects {
+  text-align: left;
+  width: 60%;
+  Margin: 10px auto 10px auto;
+  text-align: left; 
+  line-height: 2rem;
 }
 
 .html-img {
