@@ -110,7 +110,7 @@ p {
 
 
 .skill-row {
-    width: 60%;
+    width: 65%;
     Margin: 100px auto 100px auto;
     text-align: left; 
     line-height: 2rem;
@@ -119,26 +119,26 @@ p {
 
 .projects {
   text-align: left;
-  width: 60%;
+  width: 65%;
   Margin: 10px auto 10px auto;
   text-align: left; 
   line-height: 2rem;
 }
 
 .html-img {
-    width: 40%;
+    width: 36%;
     float: left;
     margin-right: 30px;
 }
 
 .python-img {
-    width: 33%;
+    width: 30%;
     float: right;
     margin-right: 80px;
 }
 
 .java-img {
-    width: 22%;
+    width: 20%;
     float: left;
     margin-right: 80px;
     margin-bottom: 50px;
